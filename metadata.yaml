@@ -1,0 +1,16 @@
+composer:
+  last: Hofmann
+  first: Leopold
+title: Missa festiva
+genre: mass
+scoring: S, A, T, B (coro), 2 vl, b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: A-Ed
+    shelfmark: A 99
+    rism: 600037897
+    url: https://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/749.html
+    license: public domain
+    principal: true
+imslp:
