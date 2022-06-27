@@ -5,6 +5,8 @@
 #(define option-print-all-bar-numbers #f)
 \include "ees.ly"
 
+mvTl = \once \override TextScript.X-offset = #-5
+
 
 tempoKyrie = \tempoMarkup "[Allegro]"
 tempoGloria = \tempoMarkup "[Allegro]"

@@ -6,19 +6,19 @@ KyrieAlto = {
     \key b \major \time 4/4 \autoBeamOff \tempoKyrie
     R1*3
     \mvTr f8.\fE^\tuttiE f16 f8 f g g r f
-    es([ d] c4) d8 \once \override TextScript.X-offset = #-2 b'\pE^\solo b8.([\trill a32 g)] %5
+    es([ d] c4) d8 \mvTl b'\pE^\solo b8.([\trill a32 g)] %5
     a8 a a8.([\trill g32 f)] g8 g g8.([\trill f32 e)]
     f8. f16 f8([ e)] f4 r
     R1
     r2 \mvTr f4\fE^\tuttiE f8 f
     fis fis r fis d([ e16 fis] g4) %10
-    fis8 \once \override TextScript.X-offset = #-3 b\pE^\solo b8.([\trillE a32 g)] a8 a a8.([\trillE g32 fis)]
+    fis8 \mvTl b\pE^\solo b8.([\trillE a32 g)] a8 a a8.([\trillE g32 fis)]
     g8. g16 g8([ fis)] g4 r
     R1
     \mvTr d8.\fE^\tutti d16 d8 d c c r4
     c8. c16 c8 c b! b r4 %15
     f'8. f16 f8 f g g16 g f4
-    f8 \once \override TextScript.X-offset = #-2 a\pE^\solo a8.([\trill g32 a)] b8 f f8.([\trillE es32 f)]
+    f8 \mvTl a\pE^\solo a8.([\trill g32 a)] b8 f f8.([\trillE es32 f)]
     g8 g g8.([\trillE f32 es)] d8. es16 d8([ c)]
     b \mvTr f'\fE^\tutti es8([ f)] f f f4
     f8 f f4 f8 f f4 %20

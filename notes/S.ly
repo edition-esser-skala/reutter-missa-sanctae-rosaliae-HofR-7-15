@@ -6,19 +6,19 @@ KyrieSoprano = {
     \key b \major \time 4/4 \autoBeamOff \tempoKyrie
     R1*3
     \mvTr d'8.\fE^\tuttiE d16 c8 c b b r b
-    a([ b] c4) f,8 \mvTr d'\pE^\solo d8.([\trill c32 b)] %5
+    a([ b] c4) f,8 \mvTl d'\pE^\solo d8.([\trill c32 b)] %5
     c8 c c8.([\trill b32 a)] b8 b b8.([\trill a32 g)]
     a8. b16 a8([ g)] f4 r
     R1
     r2 \mvTr c'4\fE^\tuttiE c8 c
     c c r a d([ c] b4) %10
-    a8 \mvTr d\pE^\solo d8.([\trill c32 b)] c8 c c8.([\trill b32 a)]
+    a8 \mvTl d\pE^\solo d8.([\trill c32 b)] c8 c c8.([\trill b32 a)]
     b8. c16 b8([ a)] g4 r
     R1
     \mvTr b8.\fE^\tutti b16 h8 h c c r4
     a8. a16 a8 a b b r4 %15
     d8. d16 c8 c b b16 b c8([ d)]
-    c \mvTr c\pE^\solo c8.([\trill b32 c)] d8 d d8.([\trill c32 d)]
+    c \mvTl c\pE^\solo c8.([\trill b32 c)] d8 d d8.([\trill c32 d)]
     es8 es es8.([\trill d32 c)] b8. c16 b8([ a)]
     b \mvTr b\fE^\tutti a([ b)] c c c4
     d8 d c4 d8 d c4 %20
