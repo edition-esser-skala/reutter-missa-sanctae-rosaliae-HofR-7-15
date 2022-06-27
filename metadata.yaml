@@ -3,7 +3,7 @@ composer:
   first: Leopold
 title: Missa festiva
 genre: mass
-scoring: S, A, T, B (coro), 2 vl, b, org
+scoring: S, A (solo), S, A, T, B (coro), 2 vl, b, org
 license: cc-by-sa-4.0
 sources:
   B1:
