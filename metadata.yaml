@@ -1,7 +1,9 @@
 composer:
-  last: Hofmann
-  first: Leopold
-title: Missa festiva
+  last: Reutter
+  suffix: der Jüngere
+  first: Georg
+title: Missa Sanctæ Rosaliæ
+id: HofR 7/15
 genre: mass
 scoring: S, A (solo), S, A, T, B (coro), 2 vl, b, org
 license: cc-by-sa-4.0
@@ -13,4 +15,17 @@ sources:
     url: https://dommusikarchiv.martinus.at/site/werkverzeichnis/gallery/749.html
     license: public domain
     principal: true
-imslp: Missa_festiva,_ProH_deest_(A-Ed_A_99)_(Hofmann,_Leopold)
+    notes: attributed to Leopold Hofmann
+  B2:
+    siglum: D-Dl
+    shelfmark: Mus.2979-D-7a
+    rism: 212006933
+    url: https://digital.slub-dresden.de/id426605152
+    license: public domain
+  B3:
+    siglum: D-Dl
+    shelfmark: Mus.2979-D-7
+    rism: 212006932
+    url: https://digital.slub-dresden.de/id42660234X
+    license: public domain
+imslp: Missa_Sanctae_Rosaliae_HofR_7/15_(Reutter,_Georg)

@@ -33,7 +33,7 @@ KyrieBassFigures = \figuremode {
   q8 q q2 <[6]>4
   <6>8 q q2 <6 5>4
   r4 <[6]>2 <6>4
-  \bo <[6 \l]> <6 5>8 \bc <[\t \t]> r2 %5
+  \bo <[6 _]> <6 5>8 \bc <[\t \t]> r2 %5
   r1
   r2. <6>4
   r q <6!> \bo <[6]>8 \bc <[_!]>
@@ -216,8 +216,8 @@ BenedictusBassFigures = \figuremode {
   r8 \bc <[6]>16 <6 [5]> \bo <[6 4]>8 <5 3>4. <6 5>4
   r \bc <[6 5]>2. %5
   r4 <4 2>8 \bo <[6 5]>4. <6>8 <_!>
-  r4 \bc <[_! \l]>2.
-  r4 \bo <[6 \l]> \bc <[6 5]> <_!>
+  r4 \bc <[_! _]>2.
+  r4 \bo <[6 _]> \bc <[6 5]> <_!>
   r2 r8 <7->4. \bassFigureExtendersOn
   q4. q8 r2 %10
   r8 <7->2. q8 \bassFigureExtendersOff
@@ -288,7 +288,7 @@ AgnusBassFigures = \figuremode {
   r <2> <[6 5]>
   r2. %15
   r
-  <6! 4+ 3>2 <[6]>8 <6\\>
+  <6! 4\+ 3>2 <[6]>8 <6\\>
   r4 <6 4> <[5!] _+>
   r2.
   r4 <6 4> <[5!] _+> %20
